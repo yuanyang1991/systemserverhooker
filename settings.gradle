@@ -1,0 +1,3 @@
+rootProject.name='SystemServerHooker'
+include ':app'
+include ':lib'
